@@ -1,5 +1,5 @@
 import React from 'react';
-import MinimalistResume from './components/MinimalistResume';
+import MinimalistResume from 'src/components/MinimalistResume';
 
 function App() {
   return (

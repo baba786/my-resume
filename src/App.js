@@ -1,12 +1,10 @@
 import React from 'react';
-import MinimalistResume from 'src/components/MinimalistResume';
+import MinimalistResume from './components/MinimalistResume.tsx';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <MinimalistResume />
     </div>
   );
 }
-
-export default App;

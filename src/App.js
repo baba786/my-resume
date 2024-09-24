@@ -1,4 +1,4 @@
-import { Mail, Briefcase, GraduationCap, Code, Globe, Award } from 'lucide-react'
+import { Mail } from 'lucide-react'
 
 export default function MinimalistResume() {
   return (

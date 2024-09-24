@@ -1,5 +1,5 @@
 import React from 'react';
-import MinimalistResume from './MinimalistResume'; // Make sure this path is correct
+import MinimalistResume from './components/MinimalistResume';
 
 function App() {
   return (
